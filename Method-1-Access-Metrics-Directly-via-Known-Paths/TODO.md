@@ -1,7 +1,6 @@
 📄 Method-1-Access-Metrics-Directly-via-Known-Paths/TODO.md
 markdown
-Copy
-Edit
+
 # TODO - Direct Metrics Access via Known Paths
 
 ## 🎯 Objective
